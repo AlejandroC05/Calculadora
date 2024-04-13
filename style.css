@@ -7,7 +7,7 @@
 body {
     padding: 0;
     margin: 0;
-    background: #d2e2eb;
+    background: #151515;
 }
 
 .calculator-grid {
@@ -24,7 +24,7 @@ body {
     font-size: 2rem;
     border: 1px solid white;
     outline: none;
-    background-color: rgba(255, 255, 255, .75);
+    background-color: rgba(187, 187, 187, 0.75);
 }
 
 .calculator-grid > button:hover {
